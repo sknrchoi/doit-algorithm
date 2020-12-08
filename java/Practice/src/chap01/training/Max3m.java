@@ -1,4 +1,5 @@
 package chap01.training;
+// 실습 1-2
 // 3개의 정숫값 가운데 최댓값을 구하여 출력합니다.
 
 class Max3m {

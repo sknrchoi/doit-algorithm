@@ -1,4 +1,5 @@
 package chap01.training;
+// 실습 1C-1
 
 import java.util.Scanner;
 

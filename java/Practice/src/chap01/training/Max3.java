@@ -1,5 +1,5 @@
 package chap01.training;
-
+// 실습 1-1
 import java.util.Scanner;
 
 class Max3 {
