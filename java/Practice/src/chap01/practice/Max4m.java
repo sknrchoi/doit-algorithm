@@ -1,4 +1,5 @@
 package chap01.practice;
+// 연습문제 1-1
 
 class Max4m {
 	// 네 값의 최댓값을 구하여 반환한다.

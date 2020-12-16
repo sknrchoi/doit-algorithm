@@ -1,4 +1,5 @@
 package chap01.practice;
+// 연습문제 1-2
 
 class Min3m {
 	// 세 값의 최솟값을 구하여 반환한다.
