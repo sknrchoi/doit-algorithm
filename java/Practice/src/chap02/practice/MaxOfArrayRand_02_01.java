@@ -5,7 +5,7 @@ import java.util.Random;
 // 연습문제 2-1
 // 사람수와 키를 난수로 생성하도록 실습 2-5 수정하여 프로그램 작성하기
 
-public class MaxOfArrayRand_02_01 {
+class MaxOfArrayRand_02_01 {
     // 배열 a의 최댓값을 구하여 반환
     static int maxOf(int[] a) {
         int max = a[0];

@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 실습 2-5
 // 배열 요소의 최댓값을 나타냅니다(값을 난수로 생성)
 
-public class MaxOfArrayRand {
+class MaxOfArrayRand {
     // 배열 a의 최댓값을 구하여 반환
     static int maxOf(int[] a) {
         int max = a[0];
