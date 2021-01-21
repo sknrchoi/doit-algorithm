@@ -26,7 +26,7 @@ class CardConvRev {
         int retry; // 다시 한 번 수행할 지 여부를 저장
         char[] cno = new char[32]; // 변환 후 각 자리의 숫자를 넣어두는 문자의 배열
 
-        System.out.println("10지ㄴ수를 기수 변환합니다.");
+        System.out.println("10진수를 기수 변환합니다.");
 
         do {
             do {
